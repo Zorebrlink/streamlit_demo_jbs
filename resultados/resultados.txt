@@ -1,0 +1,11 @@
+--- Métricas de Avaliação do Modelo ---
+R2 Score: 0.5737
+Mean Absolute Error (MAE): 0.0251
+Mean Squared Error (MSE): 0.0016
+
+--- Top 5 Variáveis Mais Importantes ---
+nMedidaOrdemProducao: 0.1897
+iQtdeApontamentoAtividade: 0.1729
+nPesoLiquidoEntrada_prod: 0.1392
+nValorArredondado: 0.1230
+nTempoOcioso: 0.0769
